@@ -291,6 +291,6 @@ http://localhost:3000/api
 
 ---
 ### Screenshots
-![Url Shorten](assets/Url Shorten.png)
-![Rate Limit](assets/Rate Limit.png)
-![Click Analytics](assets/Click Analytics.png)
+![Url Shorten](src/assets/Url-shorten.png)
+![Rate Limit](src/assets/Rate-limit.png)
+![Click Analytics](src/assets/Click-analytics.png)
