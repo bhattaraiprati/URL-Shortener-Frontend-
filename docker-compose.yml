@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: url-shortener-frontend
+    ports:
+      - "3000:80"
+    restart: unless-stopped
+    # Add environment variables here if needed by the backend or API URL configuration
+    # environment:
+    #   - VITE_API_URL=http://your-backend-api-url/api
