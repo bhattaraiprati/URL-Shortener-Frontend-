@@ -290,16 +290,7 @@ http://localhost:3000/api
   * Response includes wait time
 
 ---
-
-## Conclusion
-
-This project shows how to build a real-world system with:
-
-* clean frontend architecture
-* reliable API handling
-* simple but effective rate limiting
-* meaningful data visualization
-
-It focuses on clarity, simplicity, and practical implementation rather than over-complicated solutions.
-
----
+### Screenshots
+![Url Shorten](assets/Url Shorten.png)
+![Rate Limit](assets/Rate Limit.png)
+![Click Analytics](assets/Click Analytics.png)
